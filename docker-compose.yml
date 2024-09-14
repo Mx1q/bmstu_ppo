@@ -38,7 +38,5 @@ services:
     container_name: frontend
     ports:
       - '8080:80'
-    depends_on:
-      - backend
     environment:
       - API_URL=http://localhost:8081/
