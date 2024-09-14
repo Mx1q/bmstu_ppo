@@ -54,7 +54,7 @@ Web MPA
 ## Технологический стек
 - Backend: Golang
 - Frontend: HTML, CSS, JS
-- Database: PostgreSxQL
+- Database: PostgreSQL
   
 ## Верхнеуровневое разбиение на компоненты
 ![top level components](./imgs/topLevel.svg)
